@@ -11,5 +11,6 @@ public class Constants {
 	public static final String FilterDataMapComponent = "^(DataMap:\").*?(\")";
 	public static final String FilterValueMapComponent = "^(ValueMap:\").*?(\")";
 	public static final String NewLine = "\n";
+	public static final String EndOfFileCharacter = "%";
 	
 }
